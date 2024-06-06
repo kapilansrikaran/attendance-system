@@ -41,9 +41,6 @@
 
 ## Screenshots
 
-<<<<<<< HEAD
-Add screenshots in the `docs` folder with appropriate labels for reference.
-=======
 1. **login_screen**
 ![#1 login_screen](https://github.com/kapilansrikaran/attendance-system/assets/29796237/7d52636c-551f-496d-9c42-967a678ee8a6)
 
@@ -70,6 +67,4 @@ Add screenshots in the `docs` folder with appropriate labels for reference.
 
 8. **after_delete_students_screen**
 ![#8 after_delete_students_screen](https://github.com/kapilansrikaran/attendance-system/assets/29796237/5938ddcd-4f34-449c-93b9-c1568cc9a62a)
-
->>>>>>> c6f462094f04829f8117163877fa2b661531c0f1
 
