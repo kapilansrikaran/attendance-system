@@ -42,3 +42,4 @@
 ## Screenshots
 
 Add screenshots in the `docs` folder with appropriate labels for reference.
+
